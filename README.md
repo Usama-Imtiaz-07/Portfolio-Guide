@@ -1,6 +1,6 @@
 # 🗺 Usama's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data science and machine learning portfolio! Here, I document a summary of my projects in the domains mentioned below. 
 
 ## 📚 Table of Contents
 - [Data Science/Analysis](#data-scienceanalysis)
@@ -8,7 +8,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Computer Vision](#computer-vision)
 - [Software Engineering (Misc)](#software-engineering-misc)
 
-# Data Science/Analysis
+# 📈 Data Science/Analysis
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -17,7 +17,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Natural Language Processing (Language Models)
+# 📖 Natural Language Processing (Language Models)
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Computer Vision
+# 👓 Computer Vision
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
@@ -41,7 +41,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Software Engineering (Misc)
+# 🧑‍💻 Software Engineering (Misc)
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
