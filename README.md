@@ -8,7 +8,7 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 - [Computer Vision](#computer-vision)
 - [Software Engineering (Misc)](#software-engineering-misc)
 
-# 📈 Data Science/Analysis
+## 📈 Data Science/Analysis
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -17,7 +17,7 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 
 ***
 
-# 📖 Natural Language Processing (Language Models)
+## 📖 Natural Language Processing (Language Models)
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -27,7 +27,7 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 
 ***
 
-# 👓 Computer Vision
+## 👓 Computer Vision
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
@@ -41,7 +41,7 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 
 ***
 
-# 🧑‍💻 Software Engineering (Misc)
+## 🧑‍💻 Software Engineering (Misc)
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
