@@ -20,7 +20,7 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 
 ***
 
-## 📖 Natural Language Processing (Language Models)
+## 🧠 Natural Language Processing (Language Models)
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
@@ -29,7 +29,7 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 
 ***
 
-## 👓 Computer Vision
+## 🤖 Computer Vision
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
