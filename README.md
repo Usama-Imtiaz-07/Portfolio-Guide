@@ -8,7 +8,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Computer Vision](#computervision)
 - [Software Engineering (Misc)](#miscellaneous)
 
-# Data Engineering
+# Data Science/Analysis
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
@@ -17,7 +17,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# SQL
+# Natural Language Processing (Language Models)
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
@@ -27,7 +27,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Python
+# Computer Vision
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
@@ -41,7 +41,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ***
 
-# Tableau
+# Software Engineering (Misc)
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
