@@ -3,7 +3,7 @@
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 ## 📚 Table of Contents
-- [Data Science/Analysis](#data-science)
+- [Data Science/Analysis](#data-scienceanalysis)
 - [Natural Language Processing (Language Models)](#NLP)
 - [Computer Vision](#computervision)
 - [Software Engineering (Misc)](#miscellaneous)
