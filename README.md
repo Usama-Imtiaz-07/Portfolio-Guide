@@ -22,11 +22,10 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 
 ## 📖 Natural Language Processing (Language Models)
 
-| Project Link | Area of Analysis | Project Description | 
+| Project Link | Tools | Project Description | 
 |---|---|---|
-| 💡 [8-Week SQL Challenges](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This repo serves as the solution for the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
-| 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning, data analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
+| 🗣️ [Speech Recognition and Sentiment Feedback](https://github.com/Usama-Imtiaz-07/ASR-Sentiment-and-Speech-Feedback-System) | Python, Huggiface, Transformers, Pytorch, W&B, WHisperAI LLM (ASR), BERT LLM (Sentiment) | This project combines Automatic Speech Recognition (ASR), Sentiment Analysis, and Speech Feedback to create a system that transcribes spoken language, analyzes sentiment, and provides actionable feedback based on the transcription and sentiment. | 
+| 🙋‍♂️ [Keyword Name Classifier](https://github.com/Usama-Imtiaz-07/Key-Word-Name-Classifier/blob/main/main.ipynb) | PyTorch, NumPy, Matplotlib, Glob, OS, RNN | This project is a Recurrent Neural Network (RNN)-based language classifier that predicts the language of origin for a given name. The model is trained on a dataset of names from 18 different languages, including Arabic, Chinese, English, French, and more. The project involves data preprocessing, model creation, training, and evaluation, along with visualization of results and user interaction for predictions. |  
 
 ***
 
