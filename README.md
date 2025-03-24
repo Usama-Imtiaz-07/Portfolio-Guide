@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Data Science/Analysis](#data-scienceanalysis)
 - [Natural Language Processing (Language Models)](#natural-language-processing-language-models)
 - [Computer Vision](#computer-vision)
-- [Software Engineering (Misc)](#miscellaneous)
+- [Software Engineering (Misc)](#software-engineering-misc)
 
 # Data Science/Analysis
 
