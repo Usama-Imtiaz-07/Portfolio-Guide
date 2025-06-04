@@ -28,7 +28,7 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 | 🦠 [Water Contamination and Wildlife Impact](https://github.com/Usama-Imtiaz-07/Visual-analytics-of-water-contamination-and-its-impact-on-wildlife) | EDA, Python, Altair, Excel, Statistics, Tableau | This project focuses on analyzing water contamination trends in the Boonsong Lekagul Wildlife Preserve and their potential impact on the endangered Rose-Crested Blue Pipit bird species. |
 | 🏀 [Player Statistics (NBA)](https://github.com/Usama-Imtiaz-07/EDA_NBA_Player_Stats) | Streamlit, Pandas, NumPy, Matplotlib, Seaborn, base64. | This project is a Streamlit-based web application that provides insights into NBA player statistics from 1950 to 2020. The app scrapes player stats data from Basketball Reference and allows users to filter and analyze player statistics by year, team, and position. Users can also visualize correlations between statistical categories and download the filtered data for further analysis. |
 
-***
+**
 
 ## 🧠 Natural Language Processing (Language Models)
 
