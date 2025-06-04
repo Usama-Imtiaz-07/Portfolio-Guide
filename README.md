@@ -5,8 +5,9 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 ## 📚 Table of Contents
 - [Data Science/Analysis](#data-scienceanalysis)
 - [Natural Language Processing (Language Models)](#natural-language-processing-language-models) 
-- [Software Engineering (Misc)](#software-engineering-misc)
+- [Software Engineering - Full Stack](#software-engineering-misc)
 
+##
 
 ## 🧑‍💻 Software Engineering - Full Stack
 
@@ -15,7 +16,6 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 | 📫 [REST API's Introduction](https://github.com/Usama-Imtiaz-07/REST-APIs-Express-Tutorial) | Javascript, express, nodejs, nodemon | this is an express framework introduction to learn REST APIs. |
 | ❤️ [Dating Application Clone (Tinder)](https://github.com/Usama-Imtiaz-07/Tinder-App) | Javascript, Nodejs, React, express, firebase | this is a clone application inspired by the famous dating application; tinder. where you swipe on a persons profile (left or right) to like or unlike and it will find the match for you when both users like each other profile - swipe right.
 
-***
 
 ## 📈 Data Science/Analysis
 
