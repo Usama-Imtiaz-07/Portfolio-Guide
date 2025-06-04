@@ -7,6 +7,16 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 - [Natural Language Processing (Language Models)](#natural-language-processing-language-models) 
 - [Software Engineering (Misc)](#software-engineering-misc)
 
+
+## 🧑‍💻 Software Engineering - Full Stack
+
+| Project Link | Tools | Project Description |
+|---|---|---|
+| 📫 [REST API's Introduction](https://github.com/Usama-Imtiaz-07/REST-APIs-Express-Tutorial) | Javascript, express, nodejs, nodemon | this is an express framework introduction to learn REST APIs. |
+| ❤️ [Dating Application Clone (Tinder)](https://github.com/Usama-Imtiaz-07/Tinder-App) | Javascript, Nodejs, React, express, firebase | this is a clone application inspired by the famous dating application; tinder. where you swipe on a persons profile (left or right) to like or unlike and it will find the match for you when both users like each other profile - swipe right.
+
+***
+
 ## 📈 Data Science/Analysis
 
 | Project Link | Tools | Project Description | 
@@ -26,14 +36,5 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 |---|---|---|
 | 🗣️ [Speech Recognition and Sentiment Feedback](https://github.com/Usama-Imtiaz-07/ASR-Sentiment-and-Speech-Feedback-System) | Python, Huggiface, Transformers, Pytorch, W&B, WHisperAI LLM (ASR), BERT LLM (Sentiment) | This project combines Automatic Speech Recognition (ASR), Sentiment Analysis, and Speech Feedback to create a system that transcribes spoken language, analyzes sentiment, and provides actionable feedback based on the transcription and sentiment. | 
 | 🙋‍♂️ [Keyword Name Classifier](https://github.com/Usama-Imtiaz-07/Key-Word-Name-Classifier/blob/main/main.ipynb) | PyTorch, NumPy, Matplotlib, Glob, OS, RNN | This project is a Recurrent Neural Network (RNN)-based language classifier that predicts the language of origin for a given name. The model is trained on a dataset of names from 18 different languages, including Arabic, Chinese, English, French, and more. The project involves data preprocessing, model creation, training, and evaluation, along with visualization of results and user interaction for predictions. |  
-
-***
-
-## 🧑‍💻 Software Engineering (Misc)
-
-| Project Link | Tools | Project Description |
-|---|---|---|
-| 📫 [REST API's Introduction](https://github.com/Usama-Imtiaz-07/REST-APIs-Express-Tutorial) | Javascript, express, nodejs, nodemon | this is an express framework introduction to learn REST APIs. |
-| ❤️ [Dating Application Clone (Tinder)](https://github.com/Usama-Imtiaz-07/Tinder-App) | Javascript, Nodejs, React, express, firebase | this is a clone application inspired by the famous dating application; tinder. where you swipe on a persons profile (left or right) to like or unlike and it will find the match for you when both users like each other profile - swipe right.
 
 ***
