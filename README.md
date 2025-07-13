@@ -13,9 +13,10 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 
 | Project Link | Tools | Project Description |
 |---|---|---|
-| 📫 [REST API's CRUD Functions](https://github.com/Usama-Imtiaz-07/REST-APIs-Express-Tutorial) | Javascript, express, nodejs, nodemon | Create, Run, Update, Delete operations for REST APIs. |
-| ❤️ [Full Stack Dating Application (tinder style)](https://github.com/Usama-Imtiaz-07/Tinder-App) | Javascript, Nodejs, React, express, firebase | this is a clone application inspired by the famous dating application; tinder. where you swipe on a persons profile (left or right) to like or unlike and it will find the match for you when both users like each others profile ie. swipe right.
-| 🎬 [Frontend - React based Movie Website](https://github.com/Usama-Imtiaz-07/React-Movie-App) | Javascript, React, Docker, Github, Vite, HTML, CSS | this is React application using the movie database api to get data and provide a web page to display the movies.
+| 🎬 [Dating Application Clone (Tinder)](https://github.com/Usama-Imtiaz-07/React-Movie-App) | Javascript, Nodejs, React, express, firebase | This is a React based movie website that displays movies from a movie database api to provide frontend.
+| ❤️ [Full Stack Dating Application (Tinder Style)](https://github.com/Usama-Imtiaz-07/Tinder-App) | Javascript, Nodejs, React, express, firebase | this is a clone application inspired by the famous dating application; tinder. where you swipe on a persons profile (left or right) to like or unlike and it will find the match for you when both users like each other profile - swipe right.
+| 📫 [CRUD For REST API's](https://github.com/Usama-Imtiaz-07/REST-APIs-Express-Tutorial) | Javascript, express, nodejs, nodemon | Create, Run, Update and Delete Operations with express for REST APIs |
+
 
 
 
