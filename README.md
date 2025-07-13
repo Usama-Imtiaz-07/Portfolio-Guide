@@ -25,7 +25,6 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 | 🦠 [Water Contamination and Wildlife Impact](https://github.com/Usama-Imtiaz-07/Visual-analytics-of-water-contamination-and-its-impact-on-wildlife) | EDA, Python, Altair, Excel, Statistics, Tableau | This project focuses on analyzing water contamination trends in the Boonsong Lekagul Wildlife Preserve and their potential impact on the endangered Rose-Crested Blue Pipit bird species. |
 | 🏀 [Player Statistics (NBA)](https://github.com/Usama-Imtiaz-07/EDA_NBA_Player_Stats) | Streamlit, Pandas, NumPy, Matplotlib, Seaborn, base64. | This project is a Streamlit-based web application that provides insights into NBA player statistics from 1950 to 2020. The app scrapes player stats data from Basketball Reference and allows users to filter and analyze player statistics by year, team, and position. Users can also visualize correlations between statistical categories and download the filtered data for further analysis. |
 
-##
 
 ## 🧠 Natural Language Processing (Language Models)
 
@@ -34,3 +33,4 @@ Welcome to my data science and machine learning portfolio! Here, I document a su
 | 🗣️ [Speech Recognition and Sentiment Feedback](https://github.com/Usama-Imtiaz-07/ASR-Sentiment-and-Speech-Feedback-System) | Python, Huggiface, Transformers, Pytorch, W&B, WHisperAI LLM (ASR), BERT LLM (Sentiment) | This project combines Automatic Speech Recognition (ASR), Sentiment Analysis, and Speech Feedback to create a system that transcribes spoken language, analyzes sentiment, and provides actionable feedback based on the transcription and sentiment. | 
 | 🙋‍♂️ [Keyword Name Classifier](https://github.com/Usama-Imtiaz-07/Key-Word-Name-Classifier/blob/main/main.ipynb) | PyTorch, NumPy, Matplotlib, Glob, OS, RNN | This project is a Recurrent Neural Network (RNN)-based language classifier that predicts the language of origin for a given name. The model is trained on a dataset of names from 18 different languages, including Arabic, Chinese, English, French, and more. The project involves data preprocessing, model creation, training, and evaluation, along with visualization of results and user interaction for predictions. |  
 
+##
