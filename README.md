@@ -2,12 +2,6 @@
 
 Welcome to my data science and machine learning portfolio! Here, I document a summary of my projects in the domains mentioned below. 
 
-## 📚 Table of Contents
-- [Data Science/Analysis](#-data-scienceanalysis)
-- [Natural Language Processing (Language Models)](#-natural-language-processing-language-models) 
-- [Software Engineering - Full Stack](#-software-engineering---full-stack)
-
-##
 
 ## 🧑‍💻 Software Engineering / Full Stack Development
 
